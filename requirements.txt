@@ -1,0 +1,6 @@
+trafilatura==2.0.0
+colorama==0.4.6
+ollama==0.4.4
+requests==2.32.3
+trafilatura==2.0.0
+beautifulsoup4==4.12.3
